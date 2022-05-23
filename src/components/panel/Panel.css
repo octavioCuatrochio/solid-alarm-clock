@@ -1,0 +1,9 @@
+.panel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 92.5%;
+    height: 100vh;
+    background-color: #121212;
+    border-right: 4px solid #BB86FC;
+}

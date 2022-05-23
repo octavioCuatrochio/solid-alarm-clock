@@ -1,0 +1,9 @@
+.debug_container {
+    position: absolute;
+    top: 0;
+    right: 50%;
+    width: 35vw;
+    height: 15vh;
+    color: aqua;
+    /* background-color: gray; */
+}

@@ -1,0 +1,6 @@
+.config_panel {
+    /* display: flex; */
+    padding: 5%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}

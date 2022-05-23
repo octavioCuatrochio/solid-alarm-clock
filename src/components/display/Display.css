@@ -1,0 +1,37 @@
+@font-face {
+    font-family: digital;
+    src: url(../../fonts/digital-7.ttf);
+}
+
+
+.display {
+    font-family: digital;
+    color: white;
+    font-size: 95vh;
+    font-weight: 100;
+
+    /* Activar en release */
+    /* padding-bottom: 10%; */
+
+
+
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Old versions of Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+.display_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
